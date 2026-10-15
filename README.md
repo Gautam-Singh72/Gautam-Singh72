@@ -6,7 +6,7 @@
 
 Building scalable software, solving challenging problems, and continuously learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Connect-blue?style=for-the-badge)](https://gautamsingh77.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gautam-singh-334067295/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/memoized_Mind/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gautam_Singh_77)
